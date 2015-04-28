@@ -12,3 +12,5 @@ jobb-board
   * pip install -r requirements.txt
  5. All ready
   * python manage.py runserver
+
+

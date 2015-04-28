@@ -20,5 +20,35 @@ from decimal import *
 from hashlib import md5
 from django.utils.timezone import tzinfo, timedelta, datetime
 
+def register
 
-# Create your views here.
+def sign_in
+
+@login_required
+def home_page
+
+@login_required
+def employee_profile
+
+@login_required
+def company_page
+
+@login_required
+def employee_matches
+
+@login_required
+def company_matches
+
+@login_required
+def get_jobs_by_company
+
+@login_required
+def add_new_job
+
+@login_required
+def modify_job
+
+@login_required
+def log_out
+
+
